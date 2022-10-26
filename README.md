@@ -10,8 +10,7 @@ ThinkStats2
 [Read the related blog, *Probably Overthinking It*](https://www.allendowney.com/blog/).
 
 
-*Think Stats* is an introduction to Statistics and Data Science for Python programmers.
-If you have basic skills in Python, you can use them to learn concepts in probability and statistics and practical skills for working with data.
+
 
 * This book emphasizes simple techniques you can use to explore real data sets and answer interesting questions. 
 
